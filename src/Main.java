@@ -1,9 +1,4 @@
-/*
-// 编译
-javac Main.java -> Main.class 文件
-// 运行
-java Main
- */
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("hello world");
